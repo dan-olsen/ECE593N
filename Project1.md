@@ -9,7 +9,24 @@
 | DSDV Better | 300.0 x 1500.0  | 7.5                 | 1, 0           | 10              |
 
 ## Figures
-
+![Throughput Base]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart1-Base.png)
+![Throughput AODV]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart1-AODV.png)
+![Throughput DSDV]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart1-DSDV.png)
+![Efficiency Base]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart2-Base.png)
+![Efficiency AOV]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart2-AODV.png)
+![Efficiency DSDV]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart2-AODV.png)
+![Overhead Base]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart3-Base.png)
+![Overhead AODV]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart3-AODV.png)
+![Overhead DSDV]
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart3-DSDV.png)
 ## Script (Base Scenario AODV)
 ```c++
 /* -*-  Mode: C++; c-file-style: "gnu"; indent-tabs-mode:nil; -*- */
