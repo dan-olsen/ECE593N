@@ -20,7 +20,7 @@
 ![Efficiency AOV]
 (https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart2-AODV.png)
 ![Efficiency DSDV]
-(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart2-AODV.png)
+(https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart2-DSDV.png)
 ![Overhead Base]
 (https://raw.githubusercontent.com/dan-olsen/ECE593N/master/Chart3-Base.png)
 ![Overhead AODV]
